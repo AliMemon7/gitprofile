@@ -53,8 +53,8 @@ const CONFIG = {
     discord: '',
     telegram: '',
     website: '',
-    phone: '',
-    email: 'ali.memon@example.com',
+    phone: '+919307791486',
+    email: 'memon58ali@gmail.com',
   },
   resume: {
     fileUrl:
@@ -101,6 +101,12 @@ const CONFIG = {
     },
   ],
   educations: [
+    {
+      institution: 'Savitribai Phule Pune University',
+      degree: 'BSc in Data Science (Third Year)',
+      from: '2023',
+      to: 'Present',
+    },
     {
       institution: 'University of Technology',
       degree: 'Bachelor of Science in Computer Science',
@@ -177,11 +183,7 @@ const CONFIG = {
     ],
   },
   // Optional Footer. Supports plain text or HTML.
-  footer: `Made with <a
-      class="text-primary" href="/arifszn/gitprofile"
-      target="_blank"
-      rel="noreferrer"
-    >GitProfile</a> and ❤️`,
+  footer: `Made with <a class="text-primary" href="/arifszn/gitprofile" rel="noreferrer" target="_blank">GitProfile</a> and ❤️`,
   enablePWA: true,
 };
 export default CONFIG;
