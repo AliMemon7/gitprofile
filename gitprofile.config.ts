@@ -114,17 +114,10 @@ const CONFIG = {
   ],
   experiences: [
     {
-      company: 'AI Research Lab',
+      company: 'Savitribai Phule Pune University',
       position: 'Data Science Research Intern',
       from: 'June 2024',
       to: 'Present',
-      companyLink: 'https://example.com',
-    },
-    {
-      company: 'Tech Startup',
-      position: 'ML Engineering Intern',
-      from: 'January 2024',
-      to: 'May 2024',
       companyLink: 'https://example.com',
     },
   ],
